@@ -1,0 +1,37 @@
+@import url('../css/fonts.css');
+
+body{
+    font-family: "nunito-regular"; 
+background-color:#FFFF8D ;
+margin:0;
+}
+
+h1{
+    font-family: "nunito-bold";
+}
+
+p{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+li{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-family: "nunito-bold";                     
+}
+
+.map-responsive iframe{
+    height:400px;
+    width:100%;
+}
+
+.row{
+    margin:0;
+}
